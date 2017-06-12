@@ -1,0 +1,23 @@
+* {
+  padding:0;
+  margin:0;
+  font-family: "Century Gothic", sans-serif;
+  color:#ffffff;
+}
+
+body {
+  background: #333333;
+}
+
+#statusIndicator {
+  width:100vw;
+  height:5px;
+  position: fixed;
+  top:0;
+  left:0;
+}
+
+#main-wrapper {
+  margin-top: 1vh;
+  width:100vw;
+}
